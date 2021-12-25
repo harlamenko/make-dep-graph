@@ -1,6 +1,7 @@
 # make-dep-graph
 
 [![GitHub license](https://img.shields.io/github/license/harlamenko/make-dep-graph)](https://github.com/harlamenko/make-dep-graph/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/harlamenko/make-dep-graph)](https://github.com/harlamenko/make-dep-graph/stargazers)
 
 Script that allows you to create a dependency graph.
 
