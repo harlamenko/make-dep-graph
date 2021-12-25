@@ -1,0 +1,36 @@
+{
+  "name": "make-dep-graph",
+  "version": "1.0.0",
+  "description": "Script that allows you to create a dependency graph",
+  "main": "src/index.js",
+  "bin": "./bin/make-dep-graph.js",
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "make-dep-graph",
+    "dep-graph",
+    "dependency graph"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harlamenko/make-dep-graph"
+  },
+  "author": "Harlamenko Artem",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "esm": "^3.2.25",
+    "webpack": "^5.65.0",
+    "webpack-dev-server": "^4.7.1",
+    "cytoscape-avsdf": "^1.0.0",
+    "cytoscape-dagre": "^2.3.2",
+    "cytoscape": "^3.20.0",
+    "rxjs": "^7.4.0",
+    "html-webpack-plugin": "^5.4.0",
+    "css-loader": "^6.4.0",
+    "style-loader": "^3.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
