@@ -8,7 +8,7 @@ Script that allows you to create a dependency graph.
 
 ## Usage
 
-```shell
+```
 Usage: make-dep-graph ./path/to/file-with-data.json [options]
 
 Creates a directed graph from the provided json and opens it in the browser.
