@@ -1,6 +1,6 @@
 {
   "name": "make-dep-graph",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Script that allows you to create a dependency graph",
   "main": "src/index.js",
   "bin": "./bin/make-dep-graph.js",
